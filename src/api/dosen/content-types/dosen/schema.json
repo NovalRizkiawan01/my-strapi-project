@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dosens",
+  "info": {
+    "singularName": "dosen",
+    "pluralName": "dosens",
+    "displayName": "Dosen"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Dosen": {
+      "type": "string"
+    }
+  }
+}
